@@ -1,1 +1,7 @@
 /Logs/
+
+.*
+# will ignore items starting with .
+
+! .gitignore
+# will ignore git
