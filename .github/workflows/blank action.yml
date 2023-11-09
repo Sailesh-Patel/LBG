@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo actiontest!
+        run: touch actiontest222!
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
